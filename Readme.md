@@ -254,3 +254,4 @@ You can now create several features branches and see that the build, test and pa
 
 All this configuration means that you can have a validation system that is as close as possible without wasting time on the rapid feedback you need to improve product quality.
 test 
+"trigger CI test" 
